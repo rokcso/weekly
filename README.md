@@ -1,9 +1,15 @@
 # 氢刻知间 Newsletter
 
-some info.
+我开启这个 Newsletter 的动机：
+
+1. 练习写作
+2. 督促自己持续输入高质量信息
+3. 希望通过分享对读者可能有价值的内容获得一点正反馈，然后让自己正向循环起来
+
+为了能更好地坚持下去，我给了自己一个很低的门槛：选择了分享链接 + 简评的方式，将自己认为好的内容分享出去，顺便留下一两句简评。
 
 ## 2023
 
 ### 9 月
 
-- 第 1 期：[开始，这里是标题](https://github.com/rokcso/weekly/blob/main/2023/issue-1.md)
+- [9 项地球限度已有 6 项遭跨越 | 氢刻知间 No.1](https://github.com/rokcso/weekly/blob/main/2023/issue-1.md)
