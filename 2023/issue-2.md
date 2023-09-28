@@ -4,7 +4,7 @@
 
 本 Newsletter 开源、首发在 [GitHub](https://github.com/rokcso/weekly)。
 
-下面的今天的正文。
+下面是今天的正文。
 
 # 文章
 
