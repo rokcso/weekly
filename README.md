@@ -15,3 +15,4 @@
 ### 9 月
 
 - [9 项地球限度已有 6 项遭跨越 | 氢刻知间 No.1](https://github.com/rokcso/weekly/blob/main/2023/issue-1.md)
+- [追求工作有效性，而非生产力 | 氢刻知间 No.2](https://github.com/rokcso/weekly/blob/main/2023/issue-2.md)
