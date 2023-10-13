@@ -14,5 +14,6 @@
 
 ### 9 月
 
+- [禁止哀悼，让我安详的逝去 | 氢刻知间 No.3](https://github.com/rokcso/weekly/blob/main/2023/issue-3.md)
 - [追求工作有效性，而非生产力 | 氢刻知间 No.2](https://github.com/rokcso/weekly/blob/main/2023/issue-2.md)
 - [9 项地球限度已有 6 项遭跨越 | 氢刻知间 No.1](https://github.com/rokcso/weekly/blob/main/2023/issue-1.md)
