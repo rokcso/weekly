@@ -1,5 +1,7 @@
 # 避免复杂性陷阱的最好方法就是完全避免复杂性 | 氢刻知间 No.4
 
+氢刻知间 Newsletter 的第四期，本周的内容比较少，还没有达到我对于一篇完整 Newsletter 的要求，但最终还是选择发起来，避免陷入「阶段性停滞」。
+
 本 Newsletter 开源、首发在 [GitHub](https://github.com/rokcso/weekly)。
 
 下面是今天的正文。
