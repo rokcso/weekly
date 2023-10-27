@@ -14,6 +14,7 @@
 
 ### 10 月
 
+- [魔法的垄断 | 氢刻知间 No.5](https://github.com/rokcso/weekly/blob/main/Y2023/M10/issue-5.md)
 - [避免复杂性陷阱的最好方法就是完全避免复杂性 | 氢刻知间 No.4](https://github.com/rokcso/weekly/blob/main/Y2023/M10/issue-4.md)
 - [禁止哀悼，让我安详的逝去 | 氢刻知间 No.3](https://github.com/rokcso/weekly/blob/main/Y2023/M10/issue-3.md)
 
